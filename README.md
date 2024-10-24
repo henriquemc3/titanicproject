@@ -22,6 +22,8 @@ Henrique, henriquecassol@gwu.edu
 **Out-of-scope use cases:** 
 
 ## training data 
+- Source of test data: Kaggle titanic competition
+- Number of rows in training/validation data: 1,309
 - data dictionary 
 
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
@@ -38,9 +40,6 @@ Henrique, henriquecassol@gwu.edu
 | fare         | input          | float                | Passenger fare                                              |
 | cabin        | input          | string/float               | Cabin number                                                |
 | embarked     | input          | string               | Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton) |
-
- 
-- Number of rows in training/validation data: 1,309
 
 
 ## Test Data
