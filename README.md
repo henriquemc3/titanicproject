@@ -4,17 +4,17 @@ Hana, hana.aglan@gwu.edu
 Frank, frank_guo@gwu.edu
 James, joconnell10@gwu.edu
 
-*Model date:* October 2024
+**Model date:** October 2024
 
-*Model version:* 2.0
+**Model version:** 2.0
 
-*Model license:* Apache
+**Model license:** Apache
 
-*Primary intended uses*:
+**Primary intended uses:**
 
-*Primary intended users*: students in GWU DNSC 3288 learning to model
+**Primary intended users:** students in GWU DNSC 3288 learning to model
 
-*Out-of-scope use cases*: 
+**Out-of-scope use cases:** 
 
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
