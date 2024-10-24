@@ -18,10 +18,10 @@ James, joconnell10@gwu.edu
 
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
-| PassengerID  | ID                 | int                   |                            |
+| PassengerID  | ID                 | int                   |                            | Unique row identifier
 | survival     | Target             | int                   | Survival status (0 = No, 1 = Yes)                           |
 | pclass       | input          | int                   | Passenger's ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)        |
-| name         | input          | string                |        |
+| name         | input          | string                |        | Name of passenger
 | sex          | demographic information          | string                | Gender of the passenger                       |
 | Age          | demographic information          | float                  | Age in years                                  |
 | sibsp        | input          | int                 | Number of siblings/spouses aboard the Titanic               |
