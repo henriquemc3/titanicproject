@@ -5,6 +5,7 @@ Frank, frank_guo@gwu.edu
 James, joconnell10@gwu.edu
 
 Model date: October 2024
+Model version 2.0
 
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
