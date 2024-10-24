@@ -24,6 +24,6 @@ Model date: October 2024
 
 
 ## Test Data
-- Source of test data: GWU Blackboard, email jphall@gwu.edu for more information
-- Number of rows in test data: 7,500
+- Source of test data: Kaggle titanic competition 
+- Number of rows in test data: 1,308
 - State any differences in columns between training and test data: None
