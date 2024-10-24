@@ -10,6 +10,12 @@ Model version 2.0
 
 Model license: Apache
 
+Primary intended uses:
+
+Primary intended users: students in GWU DNSC 3288 learning to model
+
+Out-of-scope use cases: 
+
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
 | PassengerID  | ID                 | Nominal               | Survival status (0 = No, 1 = Yes)                           |
