@@ -6,8 +6,9 @@ James, joconnell10@gwu.edu
 
 Model date: October 2024
 
-
 Model version 2.0
+
+Model license: Apache
 
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
