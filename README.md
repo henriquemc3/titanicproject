@@ -21,6 +21,7 @@ James, joconnell10@gwu.edu
 **Out-of-scope use cases:** 
 
 ## training data 
+- data dictionary 
 
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
