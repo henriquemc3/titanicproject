@@ -19,3 +19,11 @@ Model date: October 2024
 | fare         | Predictor          | Ratio                 | Passenger fare                                              |
 | cabin        | Predictor          | Nominal               | Cabin number                                                |
 | embarked     | Predictor          | Nominal               | Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton) |
+
+
+
+
+## Test Data
+- Source of test data: GWU Blackboard, email jphall@gwu.edu for more information
+- Number of rows in test data: 7,500
+- State any differences in columns between training and test data: None
