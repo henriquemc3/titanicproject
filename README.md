@@ -39,13 +39,14 @@ Henrique, henriquecassol@gwu.edu
 | cabin        | input          | string/float               | Cabin number                                                |
 | embarked     | input          | string               | Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton) |
 
-
+ 
+- Number of rows in training/validation data: 1,309
 
 
 ## Test Data
 - Source of test data: Kaggle titanic competition 
-- Number of rows in test data: 1,308
-- State any differences in columns between training and test data: None
+- Number of rows in test data: 418
+- State any differences in columns between training and test data: The target variable has been removed as a variable
 
 ## model details 
 
