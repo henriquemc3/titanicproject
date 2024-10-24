@@ -23,8 +23,9 @@ Henrique, henriquecassol@gwu.edu
 
 ## training data 
 - Source of test data: Kaggle titanic competition
+- Training data 68% of total data & Validation date is 32% of the total data
 - Number of rows in training/validation data: 1,309
-- data dictionary 
+- Data dictionary:
 
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
