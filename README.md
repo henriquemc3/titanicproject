@@ -23,7 +23,7 @@ James, joconnell10@gwu.edu
 | pclass       | input          | int                   | Passenger's ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)        |
 | name         | input          | string                | Name of passenger       | 
 | sex          | demographic information          | string                | Gender of the passenger                       |
-| Age          | demographic information          | float                  | Age in years                                  |
+| age          | demographic information          | float                  | Age in years                                  |
 | sibsp        | input          | int                 | Number of siblings/spouses aboard the Titanic               |
 | parch        | input          | int                   | Number of parents/children aboard the Titanic               |
 | ticket       | input          | string                   | Ticket number                                               |
