@@ -1,4 +1,6 @@
 # titanicproject Model card 
+
+## basic information 
 Group Members:
 Hana, hana.aglan@gwu.edu
 Frank, frank_guo@gwu.edu
@@ -12,9 +14,13 @@ James, joconnell10@gwu.edu
 
 **Primary intended uses:**
 
+## intended use 
+
 **Primary intended users:** students in GWU DNSC 3288 learning to model
 
 **Out-of-scope use cases:** 
+
+## training data 
 
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
@@ -38,3 +44,12 @@ James, joconnell10@gwu.edu
 - Source of test data: Kaggle titanic competition 
 - Number of rows in test data: 1,308
 - State any differences in columns between training and test data: None
+
+## model details 
+
+
+
+## quantative analysis 
+
+### correlation heatmap
+
