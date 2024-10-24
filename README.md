@@ -4,6 +4,8 @@ Hana, hana.aglan@gwu.edu
 Frank, frank_guo@gwu.edu
 James, joconnell10@gwu.edu
 
+Model date: October 2024
+
 | **Name**     | **Modeling Role** | **Measurement Level** | **Description**                                             |
 |--------------|-------------------|-----------------------|-------------------------------------------------------------|
 | PassengerID  | ID                 | Nominal               | Survival status (0 = No, 1 = Yes)                           |
