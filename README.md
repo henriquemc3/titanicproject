@@ -11,7 +11,7 @@ Henrique, henriquecassol@gwu.edu
 
 **Model version:** 2.0
 
-**Model license:** Apache
+**Model license:** Apache 2.0
 
 **Primary intended uses:**
 
