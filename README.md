@@ -72,7 +72,9 @@ Henrique, henriquecassol@gwu.edu
 - when:
 ### Describe potential uncertainties relating to the impacts of using your model:
 - Math or software problems
-- Real-world risks: who, what, when or how?
+#### Real-world risks: who, what, when or how?
+
+- shouldn't use the result to predict any future disaster. 
 
   
 ### Describe any unexpected or results
