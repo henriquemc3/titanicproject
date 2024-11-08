@@ -52,7 +52,28 @@ Henrique, henriquecassol@gwu.edu
 
 
 
+
+
+
+
 ## Quantative analysis 
 
 ### Correlation heatmap
+
+## ethical consideration 
+
+### potential negative impacts of using your model:
+
+#### Math or software problems
+- random forest model is a "Black box" model, which means that it doesn't shows the interdmediate deduction procedures like the decision tree model, which leading to poor explainability and no way to appeal. 
+#### Real-world risks: who, what, when or how
+- who:
+- what:
+- when:
+### Describe potential uncertainties relating to the impacts of using your model:
+- Math or software problems
+- Real-world risks: who, what, when or how?
+
+  
+### Describe any unexpected or results
 
