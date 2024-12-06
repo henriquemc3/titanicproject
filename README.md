@@ -68,8 +68,7 @@ Henrique, henriquecassol@gwu.edu
 ## Quantitative analysis 
 
 ### Correlation heatmap
-
-![Correlation heatmap](Titanic HeatMap.png)
+![Screenshot 2024-12-06 150509](https://github.com/user-attachments/assets/f2a39ba4-3c89-49b9-9283-6c7030b0a124)
 
 ## ethical consideration 
 
