@@ -14,7 +14,7 @@ Henrique, henriquecassol@gwu.edu
 - **Sklearn version:** 1.5.2
 - **Model license:** MIT
 - **Model Version** 1.0
-- **Model Implementation Code** 
+- **Model Implementation Code** DNSC3288_titanic_project.ipynb
 
 ## Intended use:
 
