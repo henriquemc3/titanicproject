@@ -10,8 +10,8 @@ Henrique, henriquecassol@gwu.edu
 **Model date:** October 2024
 
 **Model version:
-** python version: 3.10.12
-** Sklearn version: 1.5.2
+python version: 3.10.12
+Sklearn version: 1.5.2
 
 **Model license:** Apache 2.0
 
