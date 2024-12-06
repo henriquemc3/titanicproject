@@ -13,8 +13,8 @@ Henrique, henriquecassol@gwu.edu
 - **Python version:** 3.10.12
 - **Sklearn version:** 1.5.2
 - **Model license:** MIT
-- **Model Version** 1.0
-- **Model Implementation Code** DNSC3288_titanic_project.ipynb
+- **Model Version:** 1.0
+- **Model Implementation Code:** 
 
 ## Intended use:
 
