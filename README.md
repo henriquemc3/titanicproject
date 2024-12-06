@@ -50,20 +50,9 @@ Henrique, henriquecassol@gwu.edu
 - State any differences in columns between training and test data: The target variable has been removed as a variable
 
 ## Model details 
-- Columns used as inputs in the final model
-PassengerId
-Survived
-Pclass
-Sex
-Age
-Fare
-FamilySize
-IsAlone
-Embarked_Q
-Embarked_S
+- Columns used as inputs in the final model: PassengerId, Survived, Pclass, Sex, Age, Fare, FamilySize, IsAlone, Embarked_Q, Embarked_S
 
-- Column(s) used as target(s) in the final model:
-Survived
+- Column(s) used as target(s) in the final model: Survived
 
 - Type of model: Random forest 
 - Software used to implement the model: sklearn
