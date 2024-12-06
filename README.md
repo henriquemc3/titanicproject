@@ -9,17 +9,19 @@ Henrique, henriquecassol@gwu.edu
 
 **Model date:** October 2024
 
-**Model version:** 2.0
+**Model version:
+** python version: 3.10.12
+** Sklearn version: 1.5.2
 
 **Model license:** Apache 2.0
 
 **Primary intended uses:**
 
-## Intended use 
+## Intended use: educational purpose
 
-**Primary intended users:** students in GWU DNSC 3288 learning to model
+**Primary intended users:** students and ML begningers
 
-**Out-of-scope use cases:** 
+**Out-of-scope use cases:** everything is not educational purpose 
 
 ## Training data 
 - Source of test data: Kaggle titanic competition
