@@ -10,9 +10,11 @@ Henrique, henriquecassol@gwu.edu
 **Model date:** October 2024
 
 ** Model version:
-- **python version:** 3.10.12
+- **Python version:** 3.10.12
 - **Sklearn version:** 1.5.2
 - **Model license:** MIT
+- **Model Version** 1.0
+- **Model Implementing** 
 
 ## Intended use:
 
