@@ -69,7 +69,7 @@ Henrique, henriquecassol@gwu.edu
 
 ### Correlation heatmap
 
-![[Titanic HeatMap.png]]
+![Correlation heatmap](Titanic HeatMap.png)
 
 ## ethical consideration 
 
