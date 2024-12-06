@@ -69,6 +69,9 @@ Henrique, henriquecassol@gwu.edu
 
 ### Correlation heatmap
 
+[[Titanic HeatMap.png]]
+
+
 ## ethical consideration 
 
 ### Potential negative impacts of using your model:
