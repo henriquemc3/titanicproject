@@ -67,21 +67,21 @@ Henrique, henriquecassol@gwu.edu
 
 
 
-## Quantative analysis 
+## Quantitative analysis 
 
 ### Correlation heatmap
 
 ## ethical consideration 
 
-### potential negative impacts of using your model:
+### Potential negative impacts of using your model:
 
 #### Math or software problems
-- random forest model is a "Black box" model, which means that it doesn't shows the interdmediate deduction procedures like the decision tree model, which leading to poor explainability and no way to appeal.
+- The random forest model is a "Black box" model, which means that it doesn't show the intermediate deduction procedures like the decision tree model, which leads to poor explainability and no way to appeal.
 - 
 #### Real-world risks: who, what, when or how
-- who:
-- what:
-- when:
+- who: this model was created for the Kaggle competition and the code is only for educational purposes, the people who are being influenced are students and machine learning beginners.
+- what: this model may enhance the bias and discrimination based on the Titanic data set, leading to discriminatory predictions.
+- when: When individuals attempt to use this model to predict future disasters, it may lead to inaccurate results. Additionally, real-world risks may arise if this model is applied to contexts beyond its intended educational purpose.
 ### Describe potential uncertainties relating to the impacts of using your model:
 - Math or software problems
 #### Real-world risks: who, what, when or how?
