@@ -12,7 +12,7 @@ Henrique, henriquecassol@gwu.edu
 ** Model version:
 - **python version:** 3.10.12
 - **Sklearn version:** 1.5.2
-- **Model license:** Apache 2.0
+- **Model license:** MIT
 
 ## Intended use:
 
