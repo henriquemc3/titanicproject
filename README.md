@@ -1,4 +1,5 @@
 # titanicproject Model card 
+https://colab.research.google.com/drive/1cNfRREN_TCsaaEVEvRhK3kRbuk8rcb14?usp=sharing 
 
 ## Basic information 
 Group Members:
