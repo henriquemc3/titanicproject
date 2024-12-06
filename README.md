@@ -14,7 +14,7 @@ Henrique, henriquecassol@gwu.edu
 - **Sklearn version:** 1.5.2
 - **Model license:** MIT
 - **Model Version** 1.0
-- **Model Implementing** 
+- **Model Implementation Code** 
 
 ## Intended use:
 
