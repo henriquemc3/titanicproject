@@ -51,18 +51,26 @@ Henrique, henriquecassol@gwu.edu
 
 ## Model details 
 - Columns used as inputs in the final model
+PassengerId
+Survived
+Pclass
+Sex
+Age
+Fare
+FamilySize
+IsAlone
+Embarked_Q
+Embarked_S
 
-
-- Column(s) used as target(s) in the final model
+- Column(s) used as target(s) in the final model:
+Survived
 
 - Type of model: Random forest 
-- Software used to implement the model: GoogleCoLab
-- Version of the modeling software
+- Software used to implement the model: sklearn
+- Version of the modeling software: 1.5.2
 
-- Hyperparameters or other settings of your model
-
-
-
+- Hyperparameters or other settings of your model:
+n_estimators=100, random_state=42
 
 
 ## Quantitative analysis 
