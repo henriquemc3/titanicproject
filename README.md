@@ -52,8 +52,16 @@ Henrique, henriquecassol@gwu.edu
 - State any differences in columns between training and test data: The target variable has been removed as a variable
 
 ## Model details 
+- Columns used as inputs in the final model
 
 
+- Column(s) used as target(s) in the final model
+
+- Type of model: Random forest 
+- Software used to implement the model: GoogleCoLab
+- Version of the modeling software
+
+- Hyperparameters or other settings of your model
 
 
 
@@ -68,7 +76,8 @@ Henrique, henriquecassol@gwu.edu
 ### potential negative impacts of using your model:
 
 #### Math or software problems
-- random forest model is a "Black box" model, which means that it doesn't shows the interdmediate deduction procedures like the decision tree model, which leading to poor explainability and no way to appeal. 
+- random forest model is a "Black box" model, which means that it doesn't shows the interdmediate deduction procedures like the decision tree model, which leading to poor explainability and no way to appeal.
+- 
 #### Real-world risks: who, what, when or how
 - who:
 - what:
@@ -78,7 +87,5 @@ Henrique, henriquecassol@gwu.edu
 #### Real-world risks: who, what, when or how?
 
 - shouldn't use the result to predict any future disaster. 
-
-  
 ### Describe any unexpected or results
 
