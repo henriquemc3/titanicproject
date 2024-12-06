@@ -79,6 +79,7 @@ n_estimators=100, random_state=42
 - Precision: 0.84
 - Recall (True Positive Rate, TPR): 0.77
 - F1 Score: 0.80
+
 ![Screenshot 2024-12-06 154001](https://github.com/user-attachments/assets/a01a5cf2-fd5c-4543-8d89-180f75bc56f7)
 ### Correlation heatmap
 ![Screenshot 2024-12-06 150509](https://github.com/user-attachments/assets/f2a39ba4-3c89-49b9-9283-6c7030b0a124)
