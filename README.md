@@ -14,8 +14,6 @@ Henrique, henriquecassol@gwu.edu
 - **Sklearn version:** 1.5.2
 - **Model license:** Apache 2.0
 
-**Primary intended uses:**
-
 ## Intended use:
 
 - **Primary intended uses:** educational purpose
