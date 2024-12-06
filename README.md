@@ -77,11 +77,15 @@ Henrique, henriquecassol@gwu.edu
 
 #### Math or software problems
 - The random forest model is a "Black box" model, which means that it doesn't show the intermediate deduction procedures like the decision tree model, which leads to poor explainability and no way to appeal.
-- 
+- Overfitting Risk: The model has a training accuracy of 100%, which suggests overfitting, meaning the model may not adjust well to new, unseen data. This could result in inaccurate predictions in real-world situations. 
+- Bias in Data Processing: The imputation of missing values (ex. Median for age) could potentially introduce biases that affect prediction accuracy as well as fairness
+
 #### Real-world risks: who, what, when or how
 - who: this model was created for the Kaggle competition and the code is only for educational purposes, the people who are being influenced are students and machine learning beginners.
 - what: this model may enhance the bias and discrimination based on the Titanic data set, leading to discriminatory predictions.
 - when: When individuals attempt to use this model to predict future disasters, it may lead to inaccurate results. Additionally, real-world risks may arise if this model is applied to contexts beyond its intended educational purpose.
+- Unfair treatment of specific groups: By blindly replicating the patterns in the historical data, the model perpetuates the inequalities that existed at the time, such as gender bias (favoring women) and socioeconomic bias (favoring first-class passengers). This can lead to a situation where the model's predictions seem to validate or justify these past injustices, instead of challenging or neutralizing them.
+
 ### Describe potential uncertainties relating to the impacts of using your model:
 - Math or software problems
 #### Real-world risks: who, what, when or how?
