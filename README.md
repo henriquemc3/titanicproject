@@ -92,4 +92,18 @@ Henrique, henriquecassol@gwu.edu
 
 - shouldn't use the result to predict any future disaster. 
 ### Describe any unexpected or results
+1.When we tried to reduce overfitting by changing model hyperparameter, such as max depth and number of trees, our validation accuracy, recall, and precision all went down. 
+
+2. Even though logically we should have removed passenger ID from the training dataset, when we removed it, validation and test results went down a well.
+With Passenger_Id:
+Training Accuracy: 100
+Validation Accuracy: 84.35
+![Screenshot 2024-12-06 143816](https://github.com/user-attachments/assets/4f7c91d9-e7bb-4fa0-b9d2-38a6c9973f8d)
+![Screenshot 2024-12-06 145617](https://github.com/user-attachments/assets/102ca6f6-3119-4b35-ace9-1582c5028277)
+
+Without Passenger_Id:
+Training Accuracy: 97.89
+Validation Accuracy:83.79
+![Screenshot 2024-12-06 143528](https://github.com/user-attachments/assets/a459edbe-437a-4950-a9c8-e79f6c20c551)
+![Screenshot 2024-12-06 143507](https://github.com/user-attachments/assets/dd1058b9-4b29-4bce-bba1-524b47fd303e)
 
