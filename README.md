@@ -10,7 +10,7 @@ Henrique, henriquecassol@gwu.edu
 
 **Model date:** October 2024
 
-** Model version:
+**Model version:**
 - **Python version:** 3.10.12
 - **Sklearn version:** 1.5.2
 - **Model license:** MIT
@@ -113,7 +113,7 @@ n_estimators=100, random_state=42
 
 
 ### Describe any unexpected or results
-1.When we tried to reduce overfitting by changing model hyperparameter, such as max depth and number of trees, our validation accuracy, recall, and precision all went down. 
+1. When we tried to reduce overfitting by changing model hyperparameter, such as max depth and number of trees, our validation accuracy, recall, and precision all went down. 
 
 2. Even though logically we should have removed passenger ID from the training dataset, when we removed it, validation and test results went down a well.
 With Passenger_Id:
