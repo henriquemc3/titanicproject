@@ -84,26 +84,34 @@ n_estimators=100, random_state=42
 ### Correlation heatmap
 ![Screenshot 2024-12-06 150509](https://github.com/user-attachments/assets/f2a39ba4-3c89-49b9-9283-6c7030b0a124)
 
-## Ethical consideration 
+## Ethical Consideration
 
-### Potential negative impacts of using your model:
+### Potential Negative Impacts of Using Your Model:
 
-#### Math or software problems
-- The random forest model is a "Black box" model, which means that it doesn't show the intermediate deduction procedures like the decision tree model, which leads to poor explainability and no way to appeal.
-- Overfitting Risk: The model has a training accuracy of 100%, which suggests overfitting, meaning the model may not adjust well to new, unseen data. This could result in inaccurate predictions in real-world situations. 
-- Bias in Data Processing: The imputation of missing values (ex. Median for age) could potentially introduce biases that affect prediction accuracy as well as fairness
+#### Math or Software Problems
+- The random forest model is a "black box" model, which means it does not show the intermediate deduction procedures like a decision tree model. This leads to poor explainability and no way to appeal.
+- The model risks overfitting, as evidenced by 100% training accuracy, meaning it may fail to generalize to unseen data effectively.
 
-#### Real-world risks: who, what, when or how
-- who: this model was created for the Kaggle competition and the code is only for educational purposes, the people who are being influenced are students and machine learning beginners.
-- what: this model may enhance the bias and discrimination based on the Titanic data set, leading to discriminatory predictions.
-- when: When individuals attempt to use this model to predict future disasters, it may lead to inaccurate results. Additionally, real-world risks may arise if this model is applied to contexts beyond its intended educational purpose.
-- Unfair treatment of specific groups: By blindly replicating the patterns in the historical data, the model perpetuates the inequalities that existed at the time, such as gender bias (favoring women) and socioeconomic bias (favoring first-class passengers). This can lead to a situation where the model's predictions seem to validate or justify these past injustices, instead of challenging or neutralizing them.
+#### Real-World Risks: Who, What, When, or How
+- **Who**: The primary users are students and machine learning beginners on Kaggle, and the model may influence their understanding of real-world applicability.
+- **What**: The model reproduces historical biases, such as favoring women and first-class passengers, perpetuating systemic inequalities.
+- **When**: Misuse occurs when the model is applied to predict outcomes in unrelated or future scenarios (e.g., modern disasters), leading to potentially inaccurate and harmful predictions.
+- **How**: The model’s replication of historical data patterns perpetuates inequalities, such as gender bias (favoring women) and socioeconomic bias (favoring first-class passengers). This could validate past injustices instead of challenging or neutralizing them.
 
-### Describe potential uncertainties relating to the impacts of using your model:
-- Math or software problems
-#### Real-world risks: who, what, when or how?
+---
 
-- shouldn't use the result to predict any future disaster. 
+### Describe Potential Uncertainties Relating to the Impacts of Using Your Model:
+
+#### Math or Software Problems
+- The "black box" nature of random forest models creates uncertainty in interpreting predictions, as the lack of transparency limits understanding and accountability.
+- Overfitting introduces doubts about the reliability of predictions on new, unseen data.
+
+#### Real-World Risks: Who, What, When, or How
+- **Who**: There is uncertainty about how different user groups (e.g., non-experts or those unfamiliar with the dataset’s limitations) interpret and use the model’s predictions.
+- **What**: Replicating historical biases could lead to unintended consequences, such as reinforcing past injustices.
+- **When**: Applying the model in contexts beyond its intended purpose (e.g., disaster prediction) introduces risks of inappropriate and unreliable predictions.
+
+
 ### Describe any unexpected or results
 1.When we tried to reduce overfitting by changing model hyperparameter, such as max depth and number of trees, our validation accuracy, recall, and precision all went down. 
 
