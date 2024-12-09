@@ -1,6 +1,4 @@
 # titanicproject Model card 
-https://colab.research.google.com/drive/1cNfRREN_TCsaaEVEvRhK3kRbuk8rcb14?usp=sharing 
-
 ## Basic information 
 Group Members:
 Hana, hana.aglan@gwu.edu
@@ -10,7 +8,7 @@ Henrique, henriquecassol@gwu.edu
 
 **Model date:** October 2024
 
-**Model version:**
+**Model Version:**
 - **Python version:** 3.10.12
 - **Sklearn version:** 1.5.2
 - **Model license:** MIT
